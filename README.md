@@ -7,4 +7,4 @@
 ## About me
 ## Hello, I am Sri Kumar Dundigalla. I have worked as a full-stack developer, and now I am pursuing a Masters in Business Analytics and Information Systems at the University of South Florida.
 
-# [Git Hub Profile](https://github.com/SriKumarDundigalla)https://github.com/SriKumarDundigalla)
+# [Git Hub Profile](https://github.com/SriKumarDundigalla)
